@@ -18,6 +18,6 @@ The project also demonstrates the importance of using scripts to automate tasks.
 
 ```shell
 $ git clone https://github.com/DelicaTessa/42-ft_server
-$ cd ft_server
+$ cd 42-ft_server
 $ docker build -t ft_server .
 $ docker run -it -p 80:80 -p 443:443 ft_server
